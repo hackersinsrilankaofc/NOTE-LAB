@@ -20,7 +20,7 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Output%20Devices.md) )
 
- 6 :- Control processing Devices
+ ⛔ :- Control processing Devices
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Control%20and%20Processing%20Devices.md) )
 
@@ -33,4 +33,7 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Communication%20Devices.md) )
 
+4 :- Software 
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Software.md) )
 
