@@ -1,8 +1,8 @@
 
 
-> 1 :- BadUSB 
+ 1 :- BadUSB 
 
-[+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/BadUSB.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/BadUSB.md) )
 
 > 2 :- ComidoxZigbee
  
