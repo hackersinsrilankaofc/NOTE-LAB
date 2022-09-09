@@ -12,18 +12,25 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Hardware.md) )
 
- 4 :- Input
+ ⛔ :- Input Devices
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Input%20Devices.md) )
 
- 5 :- Output
+ ⛔ :- Output Devices
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Output%20Devices.md) )
 
- 6 :- Contol prosesing
+ 6 :- Control processing Devices
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Control%20and%20Processing%20Devices.md) )
 
- 7 :- storage
+ ⛔ :- Memory Devices
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Memory%20Devices.md) )
+
+
+ ⛔ :- Comunication Devices
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Communication%20Devices.md) )
+
+
