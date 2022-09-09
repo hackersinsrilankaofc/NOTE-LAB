@@ -37,3 +37,16 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Software.md) )
 
+5 :- The Windows Operating System 
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Windows%20Operating%20System.md) )
+
+6 :- The Windows Decktop 
+
+> [+] ( Click hear to [Study](
+6 :- Introduction of use Computer Restart and ShutDown
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Introduction%20of%20use%20Copmuter/Restart%20and%20shut%20Down.md) )
+
+) )
+
