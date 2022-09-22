@@ -1,3 +1,9 @@
+## The Copmuter
+
+
+<img src="https://telegra.ph/file/b9c83aa13833f97afd234.jpg" alt="nz" width="300"/>
+</p>
+
 
 
  1 :- What is Computer
