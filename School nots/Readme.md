@@ -12,9 +12,9 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Phishing%20Attack/Phishing%20Attack.md) )
 
- 4 :- Proxmark3 
+ 4 :- Java
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/Proxmark3.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Java.md) )
 
  5 :- Raspberry Pi 
 
