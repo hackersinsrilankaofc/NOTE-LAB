@@ -8,9 +8,9 @@
  
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Ip%20Address/part%2001.md) )
 
- 3 :- HackRF OneSource: Great Scott 
+ 3 :- Phishing Attack 
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/HackRF%20OneSource:%20Great%20Scott.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Phishing%20Attack/Phishing%20Attack.md) )
 
  4 :- Proxmark3 
 
