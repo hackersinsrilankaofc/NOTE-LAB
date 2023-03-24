@@ -4,9 +4,9 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Hacking/part%2001.md) )
 
- 2 :- ComidoxZigbee
+ 2 :- IP Address 
  
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/ComidoxZigbee.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Ip%20Address/part%2001.md) )
 
  3 :- HackRF OneSource: Great Scott 
 
