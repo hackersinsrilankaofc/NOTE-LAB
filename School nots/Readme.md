@@ -16,6 +16,6 @@
 
 > [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Java.md) )
 
- 5 :- Raspberry Pi 
+ 5 :- Dos Attack & Ddos Attack
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Computer%20Parts/Raspberry%20Pi.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Dos%20Attack%20%26%20Ddos%20Attack/Attack.md) )
