@@ -7,7 +7,8 @@
 
 පහත ලින්ක් එකෙන් ගිහින් මේ ඇප් දෙක Download කරගන්න.
 
-
++ https://www.mediafire.com/file/m4flohrr36g84tb/𝐓𝐞𝐱𝐭+𝐑𝐞𝐩𝐞𝐚𝐭𝐞𝐫+𝐦𝐨𝐝+𝐛𝐲+𝐌𝐑+𝐖𝐡𝐢𝐭𝐞+𝐒𝐡𝐚𝐝𝐨𝐰_2.2.apk/file
++ https://www.mediafire.com/file/763swbs95cnnfj6/𝐀𝐒𝐂𝐋𝐋+𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐫+𝐌𝐨𝐝+𝐛𝐲+𝐌𝐑+𝐖𝐡𝐢𝐭𝐞+𝐒𝐡𝐚𝐝𝐨𝐰_1.2.4.apk/file
 
 # 01 Read More Spam
 
