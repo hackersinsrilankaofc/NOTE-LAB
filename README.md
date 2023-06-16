@@ -1,4 +1,4 @@
- ![HISL](https://github.com/hackersinsrilankaofc/NOTE-LAB/raw/main/image/note.jpg) <h4 align="center"> learn And Get Knowledge!</h4>
+ ![HISL](https://github.com/hackersinsrilankaofc/NOTE-LAB/raw/main/Image/note.jpg) <h4 align="center"> learn And Get Knowledge!</h4>
 
 # NOTE-LAB
 
