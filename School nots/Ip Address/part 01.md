@@ -1,3 +1,5 @@
+![IP ADDRESS](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194119.jpg)
+
 ## ⚪IP Address ඒ කියන්නෙ Internet Protocol කියන එක.
 
 - සරලවම කීවොත් computer network එකක් නිවැරදිව හදුනාගත හැකි Unique අංකයක්.
