@@ -1,3 +1,5 @@
+![DOS ATTACK & DDOS ATTACK](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194341.jpg)
+
 🟢අද අපි කතා කරමු DOS Attack & DDOS Attack ගැන🔥💫
 
 # අපි අද කතාවට යන්න කලින් පොඩි දෙවල් ටිකක් ගැන ඉගෙන ගන්න වටයක් දාලම එමු🌚
