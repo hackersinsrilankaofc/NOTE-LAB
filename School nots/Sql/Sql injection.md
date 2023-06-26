@@ -1,3 +1,5 @@
+![SQL INJECTION ATTACK](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194929.jpg)
+
 ## SQL INJECTION
 
 🟢හරි බොයිස් ඇන්ඩ් ගල්ස්😌අද අපි කතා කරමු sql injection ඇටැක් එක ගැන🔥
