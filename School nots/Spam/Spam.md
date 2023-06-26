@@ -1,3 +1,5 @@
+![SPAM](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194957.jpg)
+
 ## Spam
 
 - හරි Spam හදන්න අපිට මූලිකවම ඇප් කිහිපයක් ඕනි වෙනවා.
