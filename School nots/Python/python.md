@@ -1,3 +1,4 @@
+![PYTHON](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194523.jpg)
 
 ## පයිතන් සහ පරිගණක ක්‍රමලේඛණය
 
