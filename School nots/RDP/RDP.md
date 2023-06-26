@@ -1,4 +1,4 @@
-![RDP](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194523.jpg)
+![RDP](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194429.jpg)
 
 ## පරිගණකයක RDP යනු කුමක්ද? “Microsoft Remote Desktop Protocol (RDP) සේවාදායකයක් මත ධාවනය වන වින්ඩෝස් පාදක යෙදුම් සඳහා ජාල සම්බන්ධතා හරහා දුරස්ථ සංදර්ශකය සහ ආදාන හැකියාවන් සපයයි.” (MSDN) අත්‍යවශ්‍යයෙන්ම, RDP මඟින් පරිශීලකයින්ට ඔවුන්ගේ දුරස්ථ වින්ඩෝස් යන්ත්‍රය දේශීයව (හොඳින්, පාහේ) ක්‍රියා කරන ආකාරයට පාලනය කිරීමට ඉඩ සලසයි.
 
