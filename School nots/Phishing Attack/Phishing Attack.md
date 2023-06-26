@@ -1,3 +1,5 @@
+![PHISHING ATTACK](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194203.jpg)
+
 Homophones කියන්නේ මොනවද?... සමාන ශබ්ද ඇති
 තේරුම වෙනස් වචන.. bear, bare වගේ... Wright, right,
 write වගේ....
