@@ -1,3 +1,5 @@
+![MOST DANGEROUS BLACK HAT HACKERS](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/20230626_194708.jpg)
+
 ## අපි කවුරුත් facebook , gmail වගේ ඒවා hack කරන්න try කරනවනේ... අපි ඉතින් ඔය මොකක් හරි සොෆ්ට්වෙයාර් කෑල්ලකින් හරි , වෙන කාගේ හරි පිහිටකින් වගේ තමයි hack කලොත් hack කරන්නේ... ඒකට ඉතින් ඇත්තටම hack කියන්නත් බෑ.. අපි නොදන්නවා උනාට ලංකාවෙත් සුපිරි hackersලා ඉන්නවා. ඒ වුනාට , ලෝකයේ වෙනත් රටවල නම් ගොඩක් හැකර්ලා ඉන්නවා... ඇත්තම කියනවා නම් හැකර්ලා වර්ග 3ක් ඉන්නවා... ඒ White Hat Hackers, Black Hat Hackers සහ Grey Hat Hackers.
 
 Black Hat Hackers කියන්නේ සරලව කිව්වොත් නරකම hackersලා... ටිකක් සංකීර්ණව කිව්වොත්, Black Hat Hacker කෙනෙක් කියන්නේ, අන්තර්ජාල ආරක්ෂක විධිවිධාන මගහරින හෝ ඒවා කඩකරන , ඉතාමත් පුළුල් පරිගණක දැනුමක් තියෙන තනි පුද්ගලයෙකුට.ඒ වගේම එයාලව crackers හෝ dark-side hackers කියලත් හදුන්වනවා.මොකද, hacker කෙනෙක් කරන්නේ යම් දෙයක් හදන එක සහ cracker කෙනෙක් කරන්නේ ඒ දේවල් කඩන එකයි.
