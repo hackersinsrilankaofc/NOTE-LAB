@@ -1,25 +1,30 @@
 # </> School Notes </>
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Virus/virus.md) )
 
 
-<img src="https://telegra.ph/file/9c4d47a2bdf88f3ac44ff.jpg" alt="nz" width="300"/>
-</p>
+10 :-  Most Dangerous Black Hat Hackers
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Best%2010%20black%20hat%20hackers/back%20hat%20hackers.md) )
 
 
+11 :-  PHP
 
-<div>
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/PHP.md) )
 
-1 :- Hacking
+12 :-  Termux
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Hacking/part%2001.md) )
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/termux/Termux.md) )
 
- 2 :- IP Address 
- 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Ip%20Address/part%2001.md) )
+13 :-  Proxy
 
- 3 :- Phishing Attack 
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Proxy/proxy.md) )
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Phishing%20Attack/Phishing%20Attack.md) )
+14 :-  Sql Injection Attack 
 
- 4 :- Java
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Sql/Sql%20injection.md) )
 
-> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Java.md) )
+15 :-  Spam
+
+> [+] ( Click hear to [Study](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/School%20nots/Spam/Spam.md) )
+
+
