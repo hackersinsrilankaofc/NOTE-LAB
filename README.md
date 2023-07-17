@@ -1,7 +1,8 @@
- ![HISL](()) <h4 align="center"> learn And Get Knowledge!</h4>
 
- <img src="[](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/note.jpg)" alt="nz" width="300"/>
-</p>
+
+<img src="https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/note.jpg" alt="nz" width="300"/> </p>
+
+
 
 # NOTE-LAB
 
